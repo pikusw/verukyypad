@@ -3,7 +3,7 @@
 Możesz pobrać Verukyypad dla systemu Linux, korzystając z poniższego linku:
 
 [Verukyypad dla Linux](https://mega.nz/file/OEBFkaDC#qPe1VUh7eLPDWH5_SFE_1HJh2X5YeJyKG8A6EMLxaDo)
-(!<iframe width="1310" height="480" src="https://www.youtube.com/embed/CMVGRu9bbvQ" title="VerukyyPad jest do pobrania" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+jak wygląda program -> https://www.youtube.com/embed/CMVGRu9bbvQ
 # Windows
 
 Niestety, Verukyypad nie jest jeszcze dostępny dla systemu Windows. Jednak kod źródłowy jest dostępny publicznie, więc istnieje możliwość edycji i dostosowania go do działania na Windows. Jeśli jesteś programistą, możesz pobrać kod źródłowy z repozytorium i spróbować skompilować go samodzielnie.
