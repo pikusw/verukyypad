@@ -2,7 +2,7 @@
 
 Możesz pobrać Verukyypad dla systemu Linux, korzystając z poniższego linku:
 
-[Verukyypad dla Linux](https://www.example.com/verukyypad-linux)
+[Verukyypad dla Linux](https://mega.nz/file/OEBFkaDC#qPe1VUh7eLPDWH5_SFE_1HJh2X5YeJyKG8A6EMLxaDo)
 
 # Windows
 
